@@ -1,0 +1,32 @@
+.bodyBackgorund {
+    background-image: url("https://img.freepik.com/fotos-premium/cores-ciano-e-cor-de-rosa-da-luz-abstrata-do-fundo-da-arte-pintura-em-aquarela-sobre-tela_113767-2448.jpg?w=2000");
+    background-position: center;
+    background-size: cover;
+}
+
+body {
+    cursor: pointer;
+}
+
+h1 {
+    color: rgb(45, 178, 169);
+    font-size: 60px;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+}
+
+input {
+    margin-right: 20px;
+}
