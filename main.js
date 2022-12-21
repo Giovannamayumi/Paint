@@ -5,7 +5,7 @@ var color = "black";
 var llinha = 2;
 var lt = screen.width;
 var nl = screen.width - 50;
-var na = screen.height - 300;
+var na = screen.height - 200;
 
 if (lt < 992) {
     document.getElementById("myCanvas").width = nl;
