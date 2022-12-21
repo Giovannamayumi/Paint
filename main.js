@@ -4,7 +4,7 @@ var upx, upy;
 var color = "black";
 var llinha = 2;
 var lt = screen.width;
-var nl = screen.width - 100;
+var nl = screen.width - 50;
 var na = screen.height - 300;
 
 if (lt < 992) {
